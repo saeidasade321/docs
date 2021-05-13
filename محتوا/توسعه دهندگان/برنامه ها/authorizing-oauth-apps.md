@@ -315,3 +315,5 @@ To build this link, you'll need your OAuth Apps `client_id` that you received fr
 ### Further reading
 
 - "[About authentication to {% data variables.product.prodname_dotcom %}](/github/authenticating-to-github/about-authentication-to-github)"
+Authorization: token OAUTH-TOKEN
+GET {% data variables.product.api_url_code %}/user
