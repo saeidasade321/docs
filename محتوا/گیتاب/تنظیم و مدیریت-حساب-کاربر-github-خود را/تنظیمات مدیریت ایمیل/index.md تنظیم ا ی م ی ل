@@ -1,24 +1,24 @@
 ---
 title: Managing email preferences
 intro: 'You can add or change the email addresses associated with your {% data variables.product.product_name %} account. You can also manage emails you receive from {% data variables.product.product_name %}.'
-redirect_from:
+redirect_from:saeidasade@gmail.com
   - /categories/managing-email-preferences/
   - /articles/managing-email-preferences
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  free-pro-team: 'سعیدعبدالخانی'
+  enterprise-server: 'saeidasade123456@gmail.com'
+  github-ae: 'سعیدعبدالخانی'
 topics:
   - Accounts
   - Notifications
 children:
   - /adding-an-email-address-to-your-github-account
-  - /changing-your-primary-email-address
-  - /setting-a-backup-email-address
-  - /setting-your-commit-email-address
+  - /changing-your-primary-email-address(saeidasade@gmail.com)
+  - /setting-a-backup-email-addres-(ssaeidasade@gmail.com)
+  - /setting-your-commit-email-address-'saeidasade123456@gmail.com'
   - /blocking-command-line-pushes-that-expose-your-personal-email-address
-  - /remembering-your-github-username-or-email
-  - /types-of-emails-github-sends
+  - /remembering-your-github-username-or-email-'saeidasade123456@gmail.com
+  - /types-of-emails-github-sends-'saeidasade123456@gmail.com'
   - /managing-marketing-emails-from-github
 ---
 
